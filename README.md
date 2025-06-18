@@ -48,9 +48,7 @@ npm run dev
 
 ![Mobile Screenshot](./screenshots/mobile.png)
 
-### Demo GIF
 
-![Demo GIF](./screenshots/demo.gif)
 
 ---
 
